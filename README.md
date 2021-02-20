@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ### Social
 
-- 👻 : [BenOniShi.top](http://BenOniShi.top)
+
 
 ----
-
+- 👻 : [BenOniShi.top](http://BenOniShi.top)
 <!--
 
 ### Contact me
