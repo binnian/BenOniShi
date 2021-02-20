@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 
 ----
-- 👻 : [BenOniShi.top](http://BenOniShi.top)
-<!--
 
+<!--
+- 👻 : [BenOniShi.top](http://BenOniShi.top)
 ### Contact me
 shibn9510@gmail.com
 
