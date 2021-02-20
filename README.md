@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Code Stats
+![BenOniShi's github stats](https://github-readme-stats.vercel.app/api?username=BenOniShi&show_icons=true&theme=dracula)
+
+---- 
+
+### Social
+
+- 👻 : [BenOniShi.top](http://BenOniShi.top)
+
+----
+
+<!--
+
+### Contact me
+shibn9510@gmail.com
+
+
+-->
