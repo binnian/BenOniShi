@@ -1,7 +1,7 @@
 ### Hi Bro 👋
 
 <!--
-**BenOniShi/BenOniShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**binnian/binnian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Code Stats
-![BenOniShi's github stats](https://github-readme-stats.vercel.app/api?username=BenOniShi&show_icons=true&theme=dracula)
+![year's github stats](https://github-readme-stats.vercel.app/api?username=binnian&show_icons=true&theme=dracula)
 
 ---- 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ----
 
 <!--
-- 👻 : [BenOniShi.top](http://BenOniShi.top)
+- 👻 : [binnian.top](http://binnian.top)
 ### Contact me
 shibn9510@gmail.com
 
